@@ -1,9 +1,9 @@
-Welcome to Garonz's "Let's Build Something Together" day.  This is the gilded rose exercise - an open source kata (problem solved repeatedly to practice and improve our development skills).  
+Welcome to "Let's Build Something Together" day.  This is the gilded rose exercise - an open source kata (problem solved repeatedly to practice and improve our development skills).  
 
 Here are the ground rules:
 
   - You and your teammates will work together to improve this sofware and build upon it.
-  - Attending this session with you will be one or more people from Fikr.  Consider them as "external consultants".  When you get stuck you can go to them.  
+  - Attending this session with you will be one or more people from Garonz.  Consider them as "external consultants".  When you get stuck you can go to them.  
   - There will also be one "business owner" who you can go to for clarifications about the requirements.  
 
 
